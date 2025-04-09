@@ -12,13 +12,11 @@
   <img src="15.gif" width="100">
   <img src="16.gif" width="100">
   <img src="16.gif" width="100">
-  <img src="16.gif" width="100">
-  <img src="16.gif" width="100">
 </p>
 
 ---
 
-### 💜 Sobre mim
+💜 Sobre mim
 
 <ul>
   <li>🔧 Criadora do programa <strong>FixTurnick</strong>, ferramenta com 16 funções para manutenção e otimização.</li>
@@ -35,7 +33,7 @@
   Criada como um desafio pessoal de 1 mês 💜
 </p>
 
-### 💼 LinkedIn
+ 💼 LinkedIn
 Você pode me contratar para oportunidades ou colaborações profissionais:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sturnick-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/angelys-geraldine-sanchez)
@@ -46,6 +44,6 @@ Você pode me contratar para oportunidades ou colaborações profissionais:
   <img src="747.gif" alt="Galaxy Snake" width="600" />
 </p>
 
-<div align="center">
+<div align="left">
   <sub style="color:#a64ca6">Crafting code like potions 🧪✨</sub>
 </div>
